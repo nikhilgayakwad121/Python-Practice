@@ -1,4 +1,3 @@
-print(format_name1(input("What is your name?"), input("What is your last name? ")))
 
 #Return as an early exit
 def format_name1(f_name,l_name):
